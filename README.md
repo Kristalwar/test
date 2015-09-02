@@ -1,2 +1,2 @@
 # test
-even testen je weet ::pizza::
+even testen je weet :pizza:
